@@ -2,4 +2,4 @@
 Analysis of the customer purchases dataset to give management an overview of business performance
 
 ## Dashboard
-![dashboard-image](trendora-dashboard.PNG)
+![dashboard-image](trendora-dashboard.png)
